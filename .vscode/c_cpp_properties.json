@@ -1,0 +1,41 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/notelenovo/rosgit_ws/devel/include/**",
+        "/home/notelenovo/test_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/notelenovo/catkin_ws/devel/include/**",
+        "/home/notelenovo/test_ws/src/template_ws/src/collision_avoidance_pick_and_place/include/**",
+        "/home/notelenovo/rosgit_ws/src/vision_opencv/cv_bridge/include/**",
+        "/home/notelenovo/test_ws/src/dynamixel-workbench/dynamixel_workbench_controllers/include/**",
+        "/home/notelenovo/test_ws/src/dynamixel-workbench/dynamixel_workbench_operators/include/**",
+        "/home/notelenovo/test_ws/src/dynamixel-workbench/dynamixel_workbench_toolbox/include/**",
+        "/home/notelenovo/rosgit_ws/src/vision_opencv/image_geometry/include/**",
+        "/home/notelenovo/test_ws/src/open_manipulator/open_manipulator_control_gui/include/**",
+        "/home/notelenovo/test_ws/src/open_manipulator/open_manipulator_controller/include/**",
+        "/home/notelenovo/test_ws/src/open_manipulator/open_manipulator_libs/include/**",
+        "/home/notelenovo/test_ws/src/open_manipulator_perceptions/open_manipulator_pick_and_place/include/**",
+        "/home/notelenovo/test_ws/src/open_manipulator/open_manipulator_teleop/include/**",
+        "/home/notelenovo/catkin_ws/src/realsense_gazebo_plugin/include/**",
+        "/home/notelenovo/test_ws/src/open_manipulator_dependencies/roboticsgroup_gazebo_plugins/include/**",
+        "/home/notelenovo/rosgit_ws/src/common_msgs/sensor_msgs/include/**",
+        "/home/notelenovo/catkin_ws/src/simple_navigation_goals/include/**",
+        "/home/notelenovo/test_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/notelenovo/test_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/notelenovo/test_ws/src/turtlebot3_home_service_challenge/turtlebot3_home_service_challenge_manager/include/**",
+        "/home/notelenovo/test_ws/src/turtlebot3_home_service_challenge/turtlebot3_home_service_challenge_tools/include/**",
+        "/home/notelenovo/test_ws/src/turtlebot3_manipulation/turtlebot3_manipulation_bringup/include/**",
+        "/home/notelenovo/test_ws/src/turtlebot3_manipulation/turtlebot3_manipulation_gui/include/**",
+        "/home/notelenovo/test_ws/src/universal_robot/ur_kinematics/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
